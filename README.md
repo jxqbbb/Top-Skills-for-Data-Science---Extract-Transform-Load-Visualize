@@ -1,6 +1,6 @@
 
 # Data Scientist Skills Analysis
-➡️➡️➡️ [Notebook](https://github.com/jxqbbb/Data-collecting-preparation-visualization-and-exporting-with-Python/blob/main/Data%20collecting%2C%20preparation%2C%20visualization%20and%20exporting%20with%20Python.ipynb)
+➡️➡️➡️ [Project code](https://github.com/jxqbbb/Data-collecting-preparation-visualization-and-exporting-with-Python/blob/main/Data%20collecting%2C%20preparation%2C%20visualization%20and%20exporting%20with%20Python.ipynb)
 
 This project involves using web scraping to collect information from job posting websites about the necessary skills for a particular job field. Specifically, I am researching the skills that employers are seeking for a data scientist position.
 
